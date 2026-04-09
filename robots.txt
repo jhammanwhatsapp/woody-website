@@ -1,3 +1,0 @@
-user-agnet:*
-Aloow:/
-Sitemap:https://woodycart.netlify.app/sitemap.xml
